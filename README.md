@@ -20,6 +20,13 @@ Build a web app to search for waste items using the Toronto Waste Wizard databas
    - Render the title and description of the item.
    - Render a green star button *if the item has been favourited*.
    - Clicking the green star button should remove the item from the saved list.
+   
+# Programming Languages/Frameworks/API's used:
+   - Javascript(ES6)
+   - Html5
+   - Css3
+   - Bootstrap
+   - Fetch API(built in API)
 # Testing/Deployment
 
 
