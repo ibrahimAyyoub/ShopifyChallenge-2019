@@ -24,4 +24,4 @@ Build a web app to search for waste items using the Toronto Waste Wizard databas
 
 
 - A link to a hosted version : https://ibrahimayyoub.com/WebEngineer/index.html
-- Note! If for anyreason the hosted version isn't working, clone the respoistry and launch the index.html, it should be working just as fine.
+- Note! If for anyreason the hosted version isn't working, clone the repository and launch the index.html, it should be working just as fine.
